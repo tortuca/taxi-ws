@@ -21,10 +21,6 @@ Install dependencies:
 Run dev server on port 3000:
 
     npm start
-
-Build production files to /build folder:
-
-    npm run build
     
 ## Deploy
 
